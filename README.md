@@ -10,3 +10,5 @@ Andreas Høyer Kongsgaard (PhD Student)
 Darya Trubach (PhD Student)
 Emilie Sofie Engdal (MSc. Bioinformatics and Systems Biology)
 Jennifer Fortuny I Zhan (MSc. Bioinformatics and Systems Biology)
+
+Project Result Summary:
