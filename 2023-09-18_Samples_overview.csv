@@ -1,0 +1,44 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,,HLA-C multimers,,,,Barcoding data,
+Patient ID,KIR blocking,C*0401,C*0602,C*0701,C*0702,Sample + comment,DP sample
+AP 0101,,,,,X,Yes,No
+AP 0201,X,,,,X,Yes,No
+AP 0301,X,,,,X,Yes,Yes
+AP 0401,X,,,X,,Yes,No
+AP 0501,,,,,X,Yes,No
+,X,,,,X,Yes,No
+AP 0601,,,,X,,Yes,No
+AP 0701,,,,,X,Yes - low counts,No
+AP 0801,X,,X,,,Yes,Yes
+AP 1001,X,,X,X,,Yes,Yes
+AP 1101,X,,,X,,No,No
+AP 1201,,,,X,X,Yes - low counts,No
+AP 1401,,,,,X,Yes - low counts,No
+,X,,,,X,Yes,No
+AP 1501,,,,X,,Yes,No
+AP 1601,X,X,,,,Only DP,Yes
+AP 1801,,,,,X,No,No
+,X,,,,X,Yes,No
+AP 2001,,,,,X,Yes,No
+AP2301,X,,,X,,X,X
+AP2701,,,,,X,X,X
+AP3001,X,,,,X,X,
+AP3501,,,,X,X,X,
+AP3701,,,,X,,X,
+AP4101,,,,,X,X,
+AP4401,,,,X,X,X,
+AP4801,X,,X,,X,X,
+AP5401,X,,X,,,X,X
+AP5601,,,,X,X,X,
+AP6501,X,,X,,,X,
+AP2401,X,,,,X,X,
+AP2801,X,,,,X,X,
+AP2901,X,,,X,,X,
+AP4301,X,,X,,,X,
+AP5201,X,,,X,,X,
+AP5301,X,,,,X,X,
+AP5501,X,,,,X,X,
+AP5901,X,,,X,,X,
+AP6901,X,,X,,,X,
+AP7001,X,,,,X,X,
+AP7501,X,,,X,,X,
