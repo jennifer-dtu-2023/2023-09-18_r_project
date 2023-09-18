@@ -6,9 +6,9 @@ The aim of our projects...
 Our data source is...
 
 Project Authors:
-Andreas Høyer Kongsgaard (PhD Student)
-Darya Trubach (PhD Student)
-Emilie Sofie Engdal (MSc. Bioinformatics and Systems Biology)
+Andreas Høyer Kongsgaard (PhD Student)\
+Darya Trubach (PhD Student)\
+Emilie Sofie Engdal (MSc. Bioinformatics and Systems Biology)\
 Jennifer Fortuny I Zhan (MSc. Bioinformatics and Systems Biology)
 
 Project Result Summary:
