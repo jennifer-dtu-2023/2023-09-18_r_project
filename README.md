@@ -1,5 +1,5 @@
-# Analysing High-throughput Sequencing Data in Immunocology.
-We are Group25 from the Autumn 2023 R for Bio-Datas Science class at DTU. This is the repository for our course project, focused on analysing high throughput sequencing data relevant to immunoncology. 
+# Analysing High-throughput Sequencing Data in Immuno oncology.
+We are Group25 from the Autumn 2023 R for Bio-Datas Science class at DTU. This is the repository for our course project, focused on analysing high throughput sequencing data relevant to immuno oncology. 
 
 The aim of our projects...
 
